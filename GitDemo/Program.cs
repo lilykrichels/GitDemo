@@ -10,7 +10,16 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("HELLO WORLD");
+            Console.WriteLine("WHEN WILL THERE BE TURKEY");
+            string helloWorld = "Don't forget the stuffing.";
+            
+
+            foreach (char i in helloWorld)
+            {
+                Console.WriteLine(i);
+            }
+
         }
     }
 }
