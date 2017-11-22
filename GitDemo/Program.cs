@@ -10,6 +10,10 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
+            var name = "Kyle"
+            Debug.Assert(true);
+            Console.WriteLine("Goodbye cruel world");
+            Console.WriteLine("KYle was here");
         }
     }
 }
