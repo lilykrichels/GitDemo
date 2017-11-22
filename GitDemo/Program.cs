@@ -12,7 +12,7 @@ namespace GitDemo
         {
             Console.WriteLine("HELLO WORLD");
             Console.WriteLine("WHEN WILL THERE BE TURKEY");
-            string helloWorld = "Don't forget the stuffing.";
+            string helloWorld ="BRING MORE CRANBERRY SAUCE";
             
 
             foreach (char i in helloWorld)
